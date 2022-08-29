@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="virtual_pet.VirtualPetTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-04-13T14:34:58" hostname="DESKTOP-78INOFL" time="0.026">
+  <properties/>
+  <testcase name="virtualPetIsCreatedWithNameAndStartingAttributes()" classname="virtual_pet.VirtualPetTest" time="0.015"/>
+  <testcase name="negativeFoodAndWaterValuesRaiseAttributes()" classname="virtual_pet.VirtualPetTest" time="0.001"/>
+  <testcase name="virtualPetIsCreatedWithNameAndAssignedStartingAttributes()" classname="virtual_pet.VirtualPetTest" time="0.0"/>
+  <testcase name="allAttributesCanBeLowered()" classname="virtual_pet.VirtualPetTest" time="0.001"/>
+  <testcase name="hungerValueCanBeLowered()" classname="virtual_pet.VirtualPetTest" time="0.0"/>
+  <testcase name="thirstValueCanBeLowered()" classname="virtual_pet.VirtualPetTest" time="0.001"/>
+  <testcase name="healthIsLoweredBy1IfAnyAttributeIs100DuringTick()" classname="virtual_pet.VirtualPetTest" time="0.002"/>
+  <testcase name="allAttributesAreRaisedWithTickAndInRange()" classname="virtual_pet.VirtualPetTest" time="0.001"/>
+  <testcase name="virtualPetAttributesAreInRange0To100()" classname="virtual_pet.VirtualPetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
